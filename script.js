@@ -21,8 +21,8 @@ async function openai_test() {
   let url = "https://api.openai.com/v1/chat/completions";
 
   let openai1 = "sk";
-  let openai2 = "-U3cYavbmGVR4fMpSmAdcT3Blb";
-  let openai3 = "kFJBY5VRsxRn6wr9ycXQKI9";
+  let openai2 = "-BFXn6S1AlIDqGCX7xe3YT3B";
+  let openai3 = "lbkFJbnCYChkNgKO6BHhVvfx2";
   let apikey = openai1 + openai2 + openai3;
 
   let data = { model: "gpt-3.5-turbo", messages: conversation };
