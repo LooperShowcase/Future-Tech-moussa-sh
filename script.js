@@ -1,4 +1,3 @@
-let key = "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";
 
 let open_ai_response;
 
